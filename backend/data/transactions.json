@@ -1,0 +1,314 @@
+[
+  {
+    "title": "Monthly Salary",
+    "amount": 4000.00,
+    "type": "income",
+    "category": "Salary",
+    "date": "2026-01-01T09:00:00.000Z",
+    "notes": "Regular monthly paycheck"
+  },
+  {
+    "title": "Apartment Rent",
+    "amount": 1200.00,
+    "type": "expense",
+    "category": "Rent & Utilities",
+    "date": "2026-01-02T10:00:00.000Z",
+    "notes": "Rent payment for January"
+  },
+  {
+    "title": "Weekly Grocery Restock",
+    "amount": 150.00,
+    "type": "expense",
+    "category": "Food & Dining",
+    "date": "2026-01-05T15:30:00.000Z",
+    "notes": "Supermarket groceries"
+  },
+  {
+    "title": "Winter Coat",
+    "amount": 80.00,
+    "type": "expense",
+    "category": "Shopping",
+    "date": "2026-01-12T14:00:00.000Z",
+    "notes": "Bought during winter sale"
+  },
+  {
+    "title": "Movie Night & Snacks",
+    "amount": 45.00,
+    "type": "expense",
+    "category": "Entertainment",
+    "date": "2026-01-18T20:00:00.000Z",
+    "notes": "Tickets and popcorn with friends"
+  },
+  {
+    "title": "Freelance Landing Page",
+    "amount": 600.00,
+    "type": "income",
+    "category": "Freelance",
+    "date": "2026-01-20T11:00:00.000Z",
+    "notes": "Completed React landing page design"
+  },
+  {
+    "title": "Bus & Train Pass",
+    "amount": 35.00,
+    "type": "expense",
+    "category": "Travel",
+    "date": "2026-01-25T08:30:00.000Z",
+    "notes": "Monthly transit reload"
+  },
+  {
+    "title": "Monthly Salary",
+    "amount": 4000.00,
+    "type": "income",
+    "category": "Salary",
+    "date": "2026-02-01T09:00:00.000Z",
+    "notes": "Regular monthly paycheck"
+  },
+  {
+    "title": "Apartment Rent",
+    "amount": 1200.00,
+    "type": "expense",
+    "category": "Rent & Utilities",
+    "date": "2026-02-02T10:00:00.000Z",
+    "notes": "Rent payment for February"
+  },
+  {
+    "title": "Organic Groceries",
+    "amount": 180.00,
+    "type": "expense",
+    "category": "Food & Dining",
+    "date": "2026-02-06T17:15:00.000Z",
+    "notes": "Weekly whole foods shopping"
+  },
+  {
+    "title": "Annual Dental Cleaning",
+    "amount": 90.00,
+    "type": "expense",
+    "category": "Health & Medical",
+    "date": "2026-02-14T11:00:00.000Z",
+    "notes": "Co-pay for insurance"
+  },
+  {
+    "title": "React Advanced Course",
+    "amount": 120.00,
+    "type": "expense",
+    "category": "Education",
+    "date": "2026-02-20T19:00:00.000Z",
+    "notes": "Self-learning certification"
+  },
+  {
+    "title": "Concert Tickets",
+    "amount": 50.00,
+    "type": "expense",
+    "category": "Entertainment",
+    "date": "2026-02-25T19:30:00.000Z",
+    "notes": "Indie rock band show"
+  },
+  {
+    "title": "Monthly Salary",
+    "amount": 4000.00,
+    "type": "income",
+    "category": "Salary",
+    "date": "2026-03-01T09:00:00.000Z",
+    "notes": "Regular monthly paycheck"
+  },
+  {
+    "title": "Apartment Rent",
+    "amount": 1200.00,
+    "type": "expense",
+    "category": "Rent & Utilities",
+    "date": "2026-03-02T10:00:00.000Z",
+    "notes": "Rent payment for March"
+  },
+  {
+    "title": "Restaurant Dinner",
+    "amount": 165.00,
+    "type": "expense",
+    "category": "Food & Dining",
+    "date": "2026-03-05T20:00:00.000Z",
+    "notes": "Celebration dinner with partner"
+  },
+  {
+    "title": "Ergonomic Office Chair",
+    "amount": 210.00,
+    "type": "expense",
+    "category": "Shopping",
+    "date": "2026-03-10T12:00:00.000Z",
+    "notes": "Home office upgrade"
+  },
+  {
+    "title": "Stock Dividend payout",
+    "amount": 150.00,
+    "type": "income",
+    "category": "Investment",
+    "date": "2026-03-15T09:30:00.000Z",
+    "notes": "Quarterly dividend deposit"
+  },
+  {
+    "title": "Weekend Getaway Flight",
+    "amount": 280.00,
+    "type": "expense",
+    "category": "Travel",
+    "date": "2026-03-22T14:45:00.000Z",
+    "notes": "Round-trip ticket for weekend trip"
+  },
+  {
+    "title": "Monthly Salary",
+    "amount": 4000.00,
+    "type": "income",
+    "category": "Salary",
+    "date": "2026-04-01T09:00:00.000Z",
+    "notes": "Regular monthly paycheck"
+  },
+  {
+    "title": "Apartment Rent & Utilities",
+    "amount": 1200.00,
+    "type": "expense",
+    "category": "Rent & Utilities",
+    "date": "2026-04-02T10:00:00.000Z",
+    "notes": "Rent payment for April"
+  },
+  {
+    "title": "Gourmet Dinner & Drinks",
+    "amount": 210.00,
+    "type": "expense",
+    "category": "Food & Dining",
+    "date": "2026-04-07T19:30:00.000Z",
+    "notes": "Dinner with clients"
+  },
+  {
+    "title": "Node.js Consulting Gig",
+    "amount": 950.00,
+    "type": "income",
+    "category": "Freelance",
+    "date": "2026-04-15T15:00:00.000Z",
+    "notes": "Code audit and performance optimization"
+  },
+  {
+    "title": "Board Game Night",
+    "amount": 65.00,
+    "type": "expense",
+    "category": "Entertainment",
+    "date": "2026-04-18T18:00:00.000Z",
+    "notes": "Bought new board games and drinks"
+  },
+  {
+    "title": "Mechanical Keyboard",
+    "amount": 45.00,
+    "type": "expense",
+    "category": "Shopping",
+    "date": "2026-04-24T16:20:00.000Z",
+    "notes": "Replacement keys and switches"
+  },
+  {
+    "title": "Monthly Salary",
+    "amount": 4000.00,
+    "type": "income",
+    "category": "Salary",
+    "date": "2026-05-01T09:00:00.000Z",
+    "notes": "Regular monthly paycheck"
+  },
+  {
+    "title": "Apartment Rent",
+    "amount": 1200.00,
+    "type": "expense",
+    "category": "Rent & Utilities",
+    "date": "2026-05-02T10:00:00.000Z",
+    "notes": "Rent payment for May"
+  },
+  {
+    "title": "Healthy Meal Prep",
+    "amount": 190.00,
+    "type": "expense",
+    "category": "Food & Dining",
+    "date": "2026-05-06T18:00:00.000Z",
+    "notes": "Weekly meal prep ingredients"
+  },
+  {
+    "title": "Prescription Refill",
+    "amount": 60.00,
+    "type": "expense",
+    "category": "Health & Medical",
+    "date": "2026-05-12T10:30:00.000Z",
+    "notes": "Monthly medication co-pay"
+  },
+  {
+    "title": "Birthday Gift from Family",
+    "amount": 100.00,
+    "type": "income",
+    "category": "Gift",
+    "date": "2026-05-18T12:00:00.000Z",
+    "notes": "A generous gift for birthday"
+  },
+  {
+    "title": "Summer Wardrobe",
+    "amount": 150.00,
+    "type": "expense",
+    "category": "Shopping",
+    "date": "2026-05-22T15:00:00.000Z",
+    "notes": "T-shirts and shorts for summer"
+  },
+  {
+    "title": "Ride Share to Airport",
+    "amount": 40.00,
+    "type": "expense",
+    "category": "Travel",
+    "date": "2026-05-28T06:00:00.000Z",
+    "notes": "Airport taxi trip"
+  },
+  {
+    "title": "Monthly Salary",
+    "amount": 4000.00,
+    "type": "income",
+    "category": "Salary",
+    "date": "2026-06-01T09:00:00.000Z",
+    "notes": "Regular monthly paycheck"
+  },
+  {
+    "title": "Apartment Rent",
+    "amount": 1200.00,
+    "type": "expense",
+    "category": "Rent & Utilities",
+    "date": "2026-06-02T10:00:00.000Z",
+    "notes": "Rent payment for June"
+  },
+  {
+    "title": "Groceries & Kitchen Supplies",
+    "amount": 230.00,
+    "type": "expense",
+    "category": "Food & Dining",
+    "date": "2026-06-05T13:00:00.000Z",
+    "notes": "Stocking up fridge and pantry"
+  },
+  {
+    "title": "New Wireless Earbuds",
+    "amount": 110.00,
+    "type": "expense",
+    "category": "Shopping",
+    "date": "2026-06-10T11:45:00.000Z",
+    "notes": "Noise cancelling earbuds for work"
+  },
+  {
+    "title": "API Integration Consulting",
+    "amount": 500.00,
+    "type": "income",
+    "category": "Freelance",
+    "date": "2026-06-15T16:00:00.000Z",
+    "notes": "Resolved API bugs for e-commerce client"
+  },
+  {
+    "title": "Concert & Drinks",
+    "amount": 80.00,
+    "type": "expense",
+    "category": "Entertainment",
+    "date": "2026-06-18T21:00:00.000Z",
+    "notes": "Music festival ticket"
+  },
+  {
+    "title": "Coffee and Bakery Lunch",
+    "amount": 45.00,
+    "type": "expense",
+    "category": "Food & Dining",
+    "date": "2026-06-21T12:30:00.000Z",
+    "notes": "Lunch during co-working session"
+  }
+]
